@@ -20,6 +20,6 @@ The data used in this project is from a CSV file that contains information about
 
 To run this project locally, you will need to have Python installed on your computer. We recommend creating a virtual environment to install the project's dependencies. You can create a virtual environment and install the dependencies.
 
-##Usage
+## Usage
 To start the Dash app, run the following command:
 python app.py
